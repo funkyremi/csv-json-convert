@@ -1,0 +1,27 @@
+{
+  "name": "csv-json-convert",
+  "version": "1.0.0",
+  "description": "Convert CSV to JSON and JSON to CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkyremi/csv-json-convert.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "convert"
+  ],
+  "author": "Rémi Testa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkyremi/csv-json-convert/issues"
+  },
+  "homepage": "https://github.com/funkyremi/csv-json-convert#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
